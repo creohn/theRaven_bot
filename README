@@ -1,0 +1,18 @@
+# The Raven Bot
+
+A bot that posts lines of Edgar Allan Poe’s famous poem.
+
+Currently posting n times a day to [@theRaven on Mastodon](https://botsin.space/@theRaven)
+
+
+## Acknowledgements
+
+I couldn't have created this bot without the wrapper of [@edent](https://github.com/edent/Mastodon.py) – thanks a lot : )
+
+
+## A few words …
+
+This is my first Mastodon bot that triggers the API directly. I have some more bots floating through botsin.space:
+- [@Diskotod](https://botsin.space/@diskotod) – posts the link every time something is published on diskotod.de
+- [@Kaffee-Egoist](https://botsin.space/@Kaffee_Egoist) - posts the link to the photo every time something is published on kaffee-egoist.de
+- [@KSilke_Bischoff](https://botsin.space/@Silke_Bischoff) – posts verses of the lyrics from the band Silke Bischoff
