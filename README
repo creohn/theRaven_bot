@@ -3,7 +3,7 @@
 A bot that posts lines of Edgar Allan Poe’s famous poem.
 The Raven is Public domain & available at [Gutenberg Project](https://www.gutenberg.org/ebooks/17192).
 
-Currently posting n times a week to [@theRaven on Mastodon](https://botsin.space/@theRaven)
+Currently posting at absolutly irregular times (but no more often than every six hours [to please our bot-instance overloard] (https://botsin.space/@muffinista/110378654504428500) to [@theRaven on Mastodon](https://botsin.space/@theRaven)
 Zero-width whitespace does the trick to post “empty” posts between the verses.
 
 
