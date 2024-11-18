@@ -3,7 +3,7 @@
 A bot that posts lines of Edgar Allan Poe’s famous poem.
 The Raven is Public domain & available at [Gutenberg Project](https://www.gutenberg.org/ebooks/17192).
 
-Currently posting at absolutly irregular times (but no more often than every six hours [to please our bot-instance overloard] (https://botsin.space/@muffinista/110378654504428500) to [@theRaven on Mastodon](https://botsin.space/@theRaven)
+Currently posting at absolutly irregular times (but no more than one post per hour [to please our bot-instance overloard & be allowed to post as listed] (https://mas.to/about) to [@Poe’s Raven on Mastodon](https://mas.to/@poes_raven)
 Zero-width whitespace does the trick to post “empty” posts between the verses.
 
 
@@ -15,7 +15,7 @@ I couldn't have created this bot without the wrapper of [@edent](https://github.
 ## A few words …
 
 This is my first Mastodon bot that triggers the API directly. I have some more bots floating through botsin.space:
-- [@creBotter](https://botsin.space/@creBotter) – a Markov chain bot (aka. ebooks bot), that samples my posts from @creohn@chaos.social
-- [@Diskotod](https://botsin.space/@diskotod) – posts the link every time something is published on diskotod.de
-- [@Kaffee-Egoist](https://botsin.space/@Kaffee_Egoist) - posts the link to the photo every time something is published on kaffee-egoist.de
-- [@KSilke_Bischoff](https://botsin.space/@Silke_Bischoff) – posts verses of the lyrics from the band Silke Bischoff
+- [@creBotter](https://mas.to/@creBotter) – a Markov chain bot (aka. ebooks bot), that samples my posts from @creohn@chaos.social
+- [@Diskotod](https://mas.to/@diskotod) – posts the link every time something is published on diskotod.de
+- [@Kaffee-Egoist](https://mas.to/@Kaffee_Egoist) - posts the link to the photo every time something is published on kaffee-egoist.de
+- [@KSilke_Bischoff](https://mas.to/@Silke_Bischoff) – posts verses of the lyrics from the band Silke Bischoff
