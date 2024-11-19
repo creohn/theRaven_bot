@@ -14,7 +14,7 @@ I couldn't have created this bot without the wrapper of [@edent](https://github.
 
 ## A few words …
 
-This is my first Mastodon bot that triggers the API directly. I have some more bots floating through botsin.space:
+This is my first Mastodon bot that triggers the API directly. I have some more bots floating through Mastodon:
 - [@creBotter](https://mas.to/@creBotter) – a Markov chain bot (aka. ebooks bot), that samples my posts from @creohn@chaos.social
 - [@Diskotod](https://mas.to/@diskotod) – posts the link every time something is published on diskotod.de
 - [@Kaffee-Egoist](https://mas.to/@Kaffee_Egoist) - posts the link to the photo every time something is published on kaffee-egoist.de
